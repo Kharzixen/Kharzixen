@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Mellau Márk-Máté
 
 * <b>About me:</b> I'm a passionate software developer, I'm currently a computer science student at Babes-Bolyai University of Cluj-Napoca
-* <b>Current Side Project:</b> (In progress) an e-commerce microservices application in Java that showcases a <b>microservices architecture</b>, service discovery, distributed data, API gateway, event-driven design,   Dockerization, and aims to gain practical experience in these areas. Contributions and feedback are welcome
+* <b>Current Side Project:</b> (In progress) a [Microservices backend in Java ](https://github.com/Kharzixen/Microservices-Project) for an e-commerce application that showcases a <b>microservices architecture</b>, service discovery, distributed data, API gateway, event-driven design,   Dockerization, and aims to gain practical experience in these areas. Contributions and feedback are welcome
 
 ---
 
