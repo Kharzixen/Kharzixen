@@ -18,8 +18,8 @@ I'm always open to discussions, collaborations, and new opportunities. Feel free
 
 ### :computer: Languages and tools I'm familiar with:
 
-<details open>
-  <summary><h4>Open Technologies: </h4></summary>
+<details>
+  <summary><h4>Show Technologies: </h4></summary>
   
   > <h4>Languages:</h4>
   > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;
@@ -62,7 +62,7 @@ I'm always open to discussions, collaborations, and new opportunities. Feel free
 ### :trophy: Github Statistics: 
 
 <details>
-  <summary> <h4>Open statistics: </h4></summary>
+  <summary> <h4>Show statistics: </h4></summary>
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kharzixen" alt="kharzixen" /></a> </p>
 
