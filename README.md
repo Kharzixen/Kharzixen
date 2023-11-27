@@ -59,18 +59,12 @@ I'm always open to discussions, collaborations, and new opportunities. Feel free
 
 ---
 
-### :trophy: Github Statistics: 
-
+### :trophy: LeetCode Statistics: 
 <details>
-  <summary> <h4>Show statistics: </h4></summary>
-  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kharzixen" alt="kharzixen" /></a> </p>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kharzixen&show_icons=true&locale=en&layout=compact" alt="kharzixen" /></p>
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kharzixen&show_icons=true&locale=en" alt="kharzixen" /></p>
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kharzixen&" alt="kharzixen" /></p>
+    <summary><h4>Show LeetCode Statistics: </h4></summary>
+    <b>LeetCode profile:</b> &nbsp; <a href="https://leetcode.com/user5018WD/">https://leetcode.com/user5018WD/</a> <br><br>
+    
+![Leetcode Stats](https://leetcard.jacoblin.cool/user5018WD?theme=light&font=Bona%20Nova)
 </details>
 
 
