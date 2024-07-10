@@ -64,7 +64,7 @@ I'm always open to discussions, collaborations, and new opportunities. Feel free
     <summary><h4>Show LeetCode Statistics: </h4></summary>
     <b>LeetCode profile:</b> &nbsp; <a href="https://leetcode.com/Kharzixen/">https://leetcode.com/user5018WD/</a> <br><br>
     
-![Leetcode Stats](https://leetcard.jacoblin.cool/user5018WD?theme=light&font=Bona%20Nova)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Kharzixen?theme=light&font=Bona%20Nova)
 </details>
 
 
